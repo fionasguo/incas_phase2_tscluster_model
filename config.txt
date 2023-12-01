@@ -1,0 +1,14 @@
+lr = 0.0005
+batch_size = 32
+epoch = 10
+patience = 10
+weight_decay = 0.0005
+embed_dim = 64
+n_transformer_layer = 2
+n_attn_head = 4
+max_triplet_len = 1000
+n_feat = 51
+demo_dim = 0
+dropout = 0.3
+n_cluster = 10
+seed = 3
